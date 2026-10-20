@@ -14,7 +14,9 @@ Read [course availability](COURSES.md) for supported years, professors and the l
 
 The code expires after 10 minutes. Your token is shown once and has no expiration.
 Keep it private. If you lose it, repeat these steps to get a new one.
-Contact the maintainer to revoke a token; creating a new one does not revoke old ones.
+Creating a new token revokes all previous tokens for the same email address.
+Update your connected assistants with the new token. Requesting an email code
+alone does not revoke anything; revocation happens when you confirm the code.
 Use this token when connecting your assistant, not an OpenAI API key.
 
 ## Claude
