@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-20T21:53:48+00:00.
+Last successful document sync: 2026-10-20T22:15:56+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -130,10 +130,10 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-06 — E02 - Neo4j | 6 | 6 | 66 / 84 | 0 | 18 | 2026-10-20 21:52:17 |
-| Unassigned | 2026-10-06 — E02 - Neo4j | 6 | 6 | 12 / 12 | 0 | 0 | 2026-10-20 21:52:17 |
+| Course | 2026-10-08 — Neo4J introduction Ettori 08-10-2026 | 7 | 7 | 71 / 89 | 0 | 18 | 2026-10-20 22:13:59 |
+| Unassigned | 2026-10-08 — Neo4J introduction Ettori 08-10-2026 | 7 | 7 | 14 / 14 | 0 | 0 | 2026-10-20 22:13:59 |
 
-Searchable material: 50 PDFs; 4 assignments.
+Searchable material: 50 PDFs; 7 assignments.
 
 ## 062534 — online learning applications · 2025-26
 
