@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-20T19:39:21+02:00.
+Last successful document sync: 2026-10-20T21:18:51+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -70,10 +70,10 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-13 — FAI2026-08-AdversarialSearch-MinimaxAlphaBetaPruning-Amigoni | 16 | 16 | 73 / 79 | 0 | 6 | 2026-10-15 07:51:23 |
+| Course | 2026-10-13 — FAI2026-08-AdversarialSearch-MinimaxAlphaBetaPruning-Amigoni | 16 | 16 | 75 / 81 | 0 | 6 | 2026-10-20 21:17:14 |
 | Unassigned | 2026-10-13 — FAI2026-08-AdversarialSearch-MinimaxAlphaBetaPruning-Amigoni | 16 | 16 | 32 / 32 | 0 | 0 | 2026-10-15 07:51:23 |
 
-Searchable material: 23 PDFs; 18 assignments.
+Searchable material: 25 PDFs; 18 assignments.
 
 ## 056892 — data mining · 2026-27
 
@@ -96,10 +96,10 @@ Searchable material: 81 PDFs; 2 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-14 — Exercises on game theory | 9 | 9 | 31 / 94 | 0 | 63 | 2026-10-15 12:52:09 |
+| Course | 2026-10-14 — Exercises on game theory | 9 | 9 | 32 / 96 | 0 | 64 | 2026-10-20 21:17:20 |
 | Unassigned | 2026-10-14 — Exercises on game theory | 9 | 9 | 18 / 18 | 0 | 0 | 2026-10-15 12:52:09 |
 
-Searchable material: 3 PDFs; 10 assignments.
+Searchable material: 4 PDFs; 10 assignments.
 
 ## 056895 — streaming data analytics · 2025-26
 
@@ -130,10 +130,10 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-09-24 — SMBUD04-Marco Brambilla PoliMi-20260924 1611-1 | 4 | 4 | 58 / 71 | 0 | 13 | 2026-10-01 09:25:01 |
+| Course | 2026-09-24 — SMBUD04-Marco Brambilla PoliMi-20260924 1611-1 | 4 | 4 | 61 / 79 | 0 | 18 | 2026-10-20 21:17:34 |
 | Unassigned | 2026-09-24 — SMBUD04-Marco Brambilla PoliMi-20260924 1611-1 | 4 | 4 | 8 / 8 | 0 | 0 | 2026-10-01 09:25:01 |
 
-Searchable material: 47 PDFs; 3 assignments.
+Searchable material: 50 PDFs; 3 assignments.
 
 ## 062534 — online learning applications · 2025-26
 
@@ -172,10 +172,10 @@ Searchable material: 0 PDFs; 11 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-14 — Federico Malucelli's Personal Room-20261014 1019-1 | 10 | 10 | 89 / 105 | 0 | 16 | 2026-10-15 09:23:33 |
+| Course | 2026-10-14 — Federico Malucelli's Personal Room-20261014 1019-1 | 10 | 10 | 90 / 114 | 0 | 24 | 2026-10-20 21:17:43 |
 | Unassigned | 2026-10-14 — Federico Malucelli's Personal Room-20261014 1019-1 | 10 | 10 | 20 / 20 | 0 | 0 | 2026-10-15 09:23:33 |
 
-Searchable material: 55 PDFs; 14 assignments.
+Searchable material: 56 PDFs; 14 assignments.
 
 ## 089181 — theoretical computer science · 2025-26
 
