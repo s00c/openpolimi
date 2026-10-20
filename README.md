@@ -8,6 +8,12 @@ Read [course availability](COURSES.md) for supported years, professors and the l
 Access requires an OpenPolimi token supplied privately by the maintainer.
 Do not use an OpenAI API key as the access token.
 
+Institutional self-service access is being enabled at [openpolimi.ai](https://openpolimi.ai).
+Once email delivery is active, enter your `@mail.polimi.it` address and verify the
+six-digit code received by email. The code expires after 10 minutes. Your personal
+token has no expiration, is shown once, and can be revoked. The page keeps
+registration disabled while email setup is incomplete.
+
 ## Claude
 
 1. Open **Customize → Connectors → Add → Add custom connector**.
