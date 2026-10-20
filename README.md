@@ -5,14 +5,17 @@ Read [course availability](COURSES.md) for supported years, professors and the l
 
 **Server:** `https://kb.openpolimi.ai/mcp`
 
-Access requires an OpenPolimi token supplied privately by the maintainer.
-Do not use an OpenAI API key as the access token.
+## Get a token
 
-Institutional self-service access is being enabled at [openpolimi.ai](https://openpolimi.ai).
-Once email delivery is active, enter your `@mail.polimi.it` address and verify the
-six-digit code received by email. The code expires after 10 minutes. Your personal
-token has no expiration, is shown once, and can be revoked. The page keeps
-registration disabled while email setup is incomplete.
+1. Open [openpolimi.ai](https://openpolimi.ai).
+2. Enter your `@mail.polimi.it` email address and select **Continue**.
+3. Enter the emailed code in the six boxes, or paste the full code, then select **Confirm code**.
+4. Select **Copy token** and save it.
+
+The code expires after 10 minutes. Your token is shown once and has no expiration.
+Keep it private. If you lose it, repeat these steps to get a new one.
+Contact the maintainer to revoke a token; creating a new one does not revoke old ones.
+Use this token when connecting your assistant, not an OpenAI API key.
 
 ## Claude
 
@@ -30,7 +33,7 @@ Team workspaces may require an owner to add the connector.
 ## ChatGPT
 
 **The direct ChatGPT connection is not ready yet.**
-This server currently accepts a fixed bearer token. ChatGPT's authenticated custom
+This server currently accepts bearer tokens. ChatGPT's authenticated custom
 MCP connection requires OAuth, which has not been configured for OpenPolimi.
 Do not select anonymous access: the server will return 401.
 
