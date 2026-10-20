@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-20T21:18:51+00:00.
+Last successful document sync: 2026-10-20T21:38:09+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -130,8 +130,8 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-09-24 — SMBUD04-Marco Brambilla PoliMi-20260924 1611-1 | 4 | 4 | 61 / 79 | 0 | 18 | 2026-10-20 21:17:34 |
-| Unassigned | 2026-09-24 — SMBUD04-Marco Brambilla PoliMi-20260924 1611-1 | 4 | 4 | 8 / 8 | 0 | 0 | 2026-10-01 09:25:01 |
+| Course | 2026-10-06 — SMBUD05-Marco Brambilla PoliMi-20261006 1410-1 | 5 | 5 | 63 / 81 | 0 | 18 | 2026-10-20 21:36:35 |
+| Unassigned | 2026-10-06 — SMBUD05-Marco Brambilla PoliMi-20261006 1410-1 | 5 | 5 | 10 / 10 | 0 | 0 | 2026-10-20 21:36:35 |
 
 Searchable material: 50 PDFs; 3 assignments.
 
