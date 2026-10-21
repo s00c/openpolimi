@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-21T07:06:39+00:00.
+Last successful document sync: 2026-10-21T07:41:44+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -70,8 +70,8 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-17 — FAI2026-09-ExercisesOnCSP-Amigoni | 17 | 17 | 78 / 84 | 0 | 6 | 2026-10-21 07:03:43 |
-| Unassigned | 2026-10-17 — FAI2026-09-ExercisesOnCSP-Amigoni | 17 | 17 | 34 / 34 | 0 | 0 | 2026-10-21 07:03:43 |
+| Course | 2026-10-17 — FAI2026-09-ExercisesOnCSP-Lanzi | 18 | 18 | 80 / 86 | 0 | 6 | 2026-10-21 07:38:50 |
+| Unassigned | 2026-10-17 — FAI2026-09-ExercisesOnCSP-Lanzi | 18 | 18 | 36 / 36 | 0 | 0 | 2026-10-21 07:38:50 |
 
 Searchable material: 25 PDFs; 19 assignments.
 
