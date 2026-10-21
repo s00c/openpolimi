@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-21T08:13:37+00:00.
+Last successful document sync: 2026-10-21T08:23:56+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -28,10 +28,10 @@ Searchable material: 101 PDFs; 44 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-15 — Lab-discussion-on-RASD-Alloy-exercises | 9 | 9 | 44 / 77 | 0 | 33 | 2026-10-16 20:34:59 |
-| Elisabetta Di Nitto | 2026-10-15 — Lab-discussion-on-RASD-Alloy-exercises | 9 | 9 | 18 / 18 | 0 | 0 | 2026-10-16 20:34:59 |
+| Course | 2026-10-20 — presentation-of-research-projects 1 | 10 | 10 | 47 / 80 | 0 | 33 | 2026-10-21 08:22:18 |
+| Elisabetta Di Nitto | 2026-10-20 — presentation-of-research-projects 1 | 10 | 10 | 20 / 20 | 0 | 0 | 2026-10-21 08:22:18 |
 
-Searchable material: 3 PDFs; 23 assignments.
+Searchable material: 3 PDFs; 24 assignments.
 
 ## 055283 — bayesian learning and montecarlo simulation · 2025-26
 
