@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-22T08:15:21+00:00.
+Last successful document sync: 2026-10-22T09:09:08+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -190,10 +190,10 @@ Searchable material: 18 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-15 — TCS20261015 | 9 | 9 | 48 / 67 | 0 | 19 | 2026-10-16 06:26:56 |
-| Unassigned | 2026-10-15 — TCS20261015 | 9 | 9 | 18 / 18 | 0 | 0 | 2026-10-16 06:26:56 |
+| Course | 2026-10-20 — TCS-2026-10-20-Frigeri TMs & nondeterministic automata | 10 | 10 | 51 / 70 | 0 | 19 | 2026-10-22 09:06:47 |
+| Unassigned | 2026-10-20 — TCS-2026-10-20-Frigeri TMs & nondeterministic automata | 10 | 10 | 20 / 20 | 0 | 0 | 2026-10-22 09:06:47 |
 
-Searchable material: 26 PDFs; 4 assignments.
+Searchable material: 26 PDFs; 5 assignments.
 
 ## 090037 — model identification and data analysis 1st module · 2025-26
 
