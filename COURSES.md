@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-22T07:53:28+00:00.
+Last successful document sync: 2026-10-22T08:15:21+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -70,10 +70,10 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-19 — FAI2026-10-AdversarialSearch-MCTS-Lanzi | 19 | 19 | 83 / 89 | 0 | 6 | 2026-10-21 08:09:56 |
-| Unassigned | 2026-10-19 — FAI2026-10-AdversarialSearch-MCTS-Lanzi | 19 | 19 | 38 / 38 | 0 | 0 | 2026-10-21 08:09:56 |
+| Course | 2026-10-20 — FAI2026-10-AdversarialSearch-MCTS-Amigoni | 20 | 20 | 87 / 93 | 0 | 6 | 2026-10-22 08:11:57 |
+| Unassigned | 2026-10-20 — FAI2026-10-AdversarialSearch-MCTS-Amigoni | 20 | 20 | 40 / 40 | 0 | 0 | 2026-10-22 08:11:57 |
 
-Searchable material: 25 PDFs; 20 assignments.
+Searchable material: 25 PDFs; 22 assignments.
 
 ## 056892 — data mining · 2026-27
 
