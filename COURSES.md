@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-29T09:58:57+00:00.
+Last successful document sync: 2026-10-29T10:21:18+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -190,8 +190,8 @@ Searchable material: 18 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-20 — TCS-2026-10-20-Frigeri TMs & nondeterministic automata | 10 | 10 | 51 / 70 | 0 | 19 | 2026-10-22 09:06:47 |
-| Unassigned | 2026-10-20 — TCS-2026-10-20-Frigeri TMs & nondeterministic automata | 10 | 10 | 20 / 20 | 0 | 0 | 2026-10-22 09:06:47 |
+| Course | 2026-10-22 — TCS20261022 | 11 | 11 | 53 / 72 | 0 | 19 | 2026-10-29 10:19:27 |
+| Unassigned | 2026-10-22 — TCS20261022 | 11 | 11 | 22 / 22 | 0 | 0 | 2026-10-29 10:19:27 |
 
 Searchable material: 26 PDFs; 5 assignments.
 
