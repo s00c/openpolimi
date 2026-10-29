@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-29T09:25:22+00:00.
+Last successful document sync: 2026-10-29T09:40:15+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -28,10 +28,10 @@ Searchable material: 101 PDFs; 44 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-20 — presentation-of-research-projects 1 | 10 | 10 | 49 / 83 | 0 | 34 | 2026-10-27 23:27:05 |
-| Elisabetta Di Nitto | 2026-10-20 — presentation-of-research-projects 1 | 10 | 10 | 20 / 20 | 0 | 0 | 2026-10-21 08:22:18 |
+| Course | 2026-10-20 — presentation-of-research-projects 1 | 11 | 11 | 54 / 88 | 0 | 34 | 2026-10-29 09:38:20 |
+| Elisabetta Di Nitto | 2026-10-20 — presentation-of-research-projects 1 | 11 | 11 | 22 / 22 | 0 | 0 | 2026-10-29 09:38:20 |
 
-Searchable material: 5 PDFs; 24 assignments.
+Searchable material: 5 PDFs; 27 assignments.
 
 ## 055283 — bayesian learning and montecarlo simulation · 2025-26
 
