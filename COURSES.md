@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-10-29T11:33:50+00:00.
+Last successful document sync: 2026-10-29T11:46:05+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -96,8 +96,8 @@ Searchable material: 81 PDFs; 2 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-20 — Exercises on coalition formation | 10 | 10 | 34 / 98 | 0 | 64 | 2026-10-21 08:44:48 |
-| Unassigned | 2026-10-20 — Exercises on coalition formation | 10 | 10 | 20 / 20 | 0 | 0 | 2026-10-21 08:44:48 |
+| Course | 2026-10-27 — Multiagent planning | 11 | 11 | 36 / 100 | 0 | 64 | 2026-10-29 11:44:05 |
+| Unassigned | 2026-10-27 — Multiagent planning | 11 | 11 | 22 / 22 | 0 | 0 | 2026-10-29 11:44:05 |
 
 Searchable material: 4 PDFs; 10 assignments.
 
