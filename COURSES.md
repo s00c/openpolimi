@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-02T10:05:39+00:00.
+Last successful document sync: 2026-11-02T11:45:34+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -28,9 +28,9 @@ Searchable material: 101 PDFs; 44 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-28 — rossi sa-structures-in-uml 79bc5e451e5ea148 | 13 | 13 | 60 / 94 | 0 | 34 | 2026-11-02 09:10:09 |
+| Course | 2026-10-29 — rossi architectural-styles-client-server 2fd847528f62cfbd | 14 | 14 | 62 / 96 | 0 | 34 | 2026-11-02 10:23:39 |
 | Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-02 09:10:09 |
-| Matteo Rossi | 2026-10-28 — rossi sa-structures-in-uml 79bc5e451e5ea148 | 1 | 1 | 2 / 2 | 0 | 0 | 2026-11-02 09:10:09 |
+| Matteo Rossi | 2026-10-29 — rossi architectural-styles-client-server 2fd847528f62cfbd | 2 | 2 | 4 / 4 | 0 | 0 | 2026-11-02 10:23:39 |
 
 Searchable material: 5 PDFs; 29 assignments.
 
@@ -131,7 +131,7 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 84 / 102 | 0 | 18 | 2026-11-02 07:37:22 |
+| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 84 / 102 | 0 | 18 | 2026-11-02 11:41:50 |
 | Unassigned | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 22 / 22 | 0 | 0 | 2026-10-21 06:40:25 |
 
 Searchable material: 51 PDFs; 11 assignments.
@@ -173,10 +173,10 @@ Searchable material: 0 PDFs; 11 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-28 — Federico Malucelli's Personal Room-20261028 1103-1 | 13 | 13 | 101 / 127 | 0 | 26 | 2026-11-02 09:41:49 |
+| Course | 2026-10-28 — Federico Malucelli's Personal Room-20261028 1103-1 | 13 | 13 | 102 / 138 | 0 | 36 | 2026-11-02 11:42:06 |
 | Unassigned | 2026-10-28 — Federico Malucelli's Personal Room-20261028 1103-1 | 13 | 13 | 26 / 26 | 0 | 0 | 2026-11-02 09:41:49 |
 
-Searchable material: 57 PDFs; 18 assignments.
+Searchable material: 58 PDFs; 18 assignments.
 
 ## 089181 — theoretical computer science · 2025-26
 
@@ -191,8 +191,8 @@ Searchable material: 18 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-27 — TCS-2026-10-27-Frigeri NDPDAs, formal grammars | 12 | 12 | 55 / 74 | 0 | 19 | 2026-11-02 08:53:52 |
-| Unassigned | 2026-10-27 — TCS-2026-10-27-Frigeri NDPDAs, formal grammars | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-02 08:53:52 |
+| Course | 2026-10-29 — TCS20261029 | 13 | 13 | 57 / 76 | 0 | 19 | 2026-11-02 10:39:57 |
+| Unassigned | 2026-10-29 — TCS20261029 | 13 | 13 | 26 / 26 | 0 | 0 | 2026-11-02 10:39:57 |
 
 Searchable material: 26 PDFs; 5 assignments.
 
