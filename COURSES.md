@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-01T23:53:57+00:00.
+Last successful document sync: 2026-11-02T01:07:30+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -130,7 +130,7 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 84 / 102 | 0 | 18 | 2026-11-01 23:49:21 |
+| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 84 / 102 | 0 | 18 | 2026-11-02 01:02:53 |
 | Unassigned | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 22 / 22 | 0 | 0 | 2026-10-21 06:40:25 |
 
 Searchable material: 51 PDFs; 11 assignments.
