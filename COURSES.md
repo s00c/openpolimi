@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-02T07:38:11+00:00.
+Last successful document sync: 2026-11-02T08:58:05+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -70,8 +70,8 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-26 — FAI2026-12-ExercisesOnAdversarialSearch-Amigoni | 23 | 23 | 94 / 100 | 0 | 6 | 2026-10-29 11:30:29 |
-| Unassigned | 2026-10-26 — FAI2026-12-ExercisesOnAdversarialSearch-Amigoni | 23 | 23 | 46 / 46 | 0 | 0 | 2026-10-29 11:30:29 |
+| Course | 2026-10-27 — FAI2026-13-LearningToPlayAndSearch-Amigoni | 24 | 24 | 96 / 102 | 0 | 6 | 2026-11-02 07:47:59 |
+| Unassigned | 2026-10-27 — FAI2026-13-LearningToPlayAndSearch-Amigoni | 24 | 24 | 48 / 48 | 0 | 0 | 2026-11-02 07:47:59 |
 
 Searchable material: 25 PDFs; 23 assignments.
 
@@ -190,8 +190,8 @@ Searchable material: 18 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-22 — TCS20261022 | 11 | 11 | 53 / 72 | 0 | 19 | 2026-10-29 10:19:27 |
-| Unassigned | 2026-10-22 — TCS20261022 | 11 | 11 | 22 / 22 | 0 | 0 | 2026-10-29 10:19:27 |
+| Course | 2026-10-27 — TCS-2026-10-27-Frigeri NDPDAs, formal grammars | 12 | 12 | 55 / 74 | 0 | 19 | 2026-11-02 08:53:52 |
+| Unassigned | 2026-10-27 — TCS-2026-10-27-Frigeri NDPDAs, formal grammars | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-02 08:53:52 |
 
 Searchable material: 26 PDFs; 5 assignments.
 
