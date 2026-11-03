@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-03T12:06:22+00:00.
+Last successful document sync: 2026-11-03T12:17:13+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -97,8 +97,8 @@ Searchable material: 81 PDFs; 2 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-28 — Multiagent planning | 12 | 12 | 39 / 103 | 0 | 64 | 2026-11-03 12:04:38 |
-| Unassigned | 2026-10-28 — Multiagent planning | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-02 10:01:31 |
+| Course | 2026-11-03 — Multiagent planning | 13 | 13 | 41 / 105 | 0 | 64 | 2026-11-03 12:14:48 |
+| Unassigned | 2026-11-03 — Multiagent planning | 13 | 13 | 26 / 26 | 0 | 0 | 2026-11-03 12:14:48 |
 
 Searchable material: 5 PDFs; 10 assignments.
 
