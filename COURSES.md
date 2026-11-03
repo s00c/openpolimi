@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-03T12:17:13+00:00.
+Last successful document sync: 2026-11-03T13:17:55+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -173,8 +173,8 @@ Searchable material: 0 PDFs; 11 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-28 — Federico Malucelli's Personal Room-20261028 1103-1 | 13 | 13 | 102 / 147 | 0 | 45 | 2026-11-03 12:05:17 |
-| Unassigned | 2026-10-28 — Federico Malucelli's Personal Room-20261028 1103-1 | 13 | 13 | 26 / 26 | 0 | 0 | 2026-11-02 09:41:49 |
+| Course | 2026-11-03 — 2026-11-03 - Exercise Class - Graphs and flows | 14 | 14 | 104 / 149 | 0 | 45 | 2026-11-03 13:15:19 |
+| Unassigned | 2026-11-03 — 2026-11-03 - Exercise Class - Graphs and flows | 14 | 14 | 28 / 28 | 0 | 0 | 2026-11-03 13:15:19 |
 
 Searchable material: 58 PDFs; 18 assignments.
 
