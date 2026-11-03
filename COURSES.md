@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-03T11:02:57+00:00.
+Last successful document sync: 2026-11-03T12:06:22+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -97,10 +97,10 @@ Searchable material: 81 PDFs; 2 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-28 — Multiagent planning | 12 | 12 | 38 / 102 | 0 | 64 | 2026-11-02 10:01:31 |
+| Course | 2026-10-28 — Multiagent planning | 12 | 12 | 39 / 103 | 0 | 64 | 2026-11-03 12:04:38 |
 | Unassigned | 2026-10-28 — Multiagent planning | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-02 10:01:31 |
 
-Searchable material: 4 PDFs; 10 assignments.
+Searchable material: 5 PDFs; 10 assignments.
 
 ## 056895 — streaming data analytics · 2025-26
 
@@ -131,7 +131,7 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 84 / 102 | 0 | 18 | 2026-11-03 11:02:01 |
+| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 84 / 102 | 0 | 18 | 2026-11-03 12:04:59 |
 | Unassigned | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 22 / 22 | 0 | 0 | 2026-10-21 06:40:25 |
 
 Searchable material: 51 PDFs; 11 assignments.
@@ -173,7 +173,7 @@ Searchable material: 0 PDFs; 11 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-28 — Federico Malucelli's Personal Room-20261028 1103-1 | 13 | 13 | 102 / 138 | 0 | 36 | 2026-11-02 11:42:06 |
+| Course | 2026-10-28 — Federico Malucelli's Personal Room-20261028 1103-1 | 13 | 13 | 102 / 147 | 0 | 45 | 2026-11-03 12:05:17 |
 | Unassigned | 2026-10-28 — Federico Malucelli's Personal Room-20261028 1103-1 | 13 | 13 | 26 / 26 | 0 | 0 | 2026-11-02 09:41:49 |
 
 Searchable material: 58 PDFs; 18 assignments.
