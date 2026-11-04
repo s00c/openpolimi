@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-04T14:09:44+00:00.
+Last successful document sync: 2026-11-04T15:49:53+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -131,10 +131,10 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 84 / 102 | 0 | 18 | 2026-11-04 14:08:53 |
+| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 86 / 104 | 0 | 18 | 2026-11-04 15:46:53 |
 | Unassigned | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 22 / 22 | 0 | 0 | 2026-10-21 06:40:25 |
 
-Searchable material: 51 PDFs; 11 assignments.
+Searchable material: 53 PDFs; 11 assignments.
 
 ## 062534 — online learning applications · 2025-26
 
@@ -173,8 +173,8 @@ Searchable material: 0 PDFs; 11 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-03 — 2026-11-03 - Exercise Class - Graphs and flows | 14 | 14 | 104 / 149 | 0 | 45 | 2026-11-03 13:15:19 |
-| Unassigned | 2026-11-03 — 2026-11-03 - Exercise Class - Graphs and flows | 14 | 14 | 28 / 28 | 0 | 0 | 2026-11-03 13:15:19 |
+| Course | 2026-11-04 — Federico Malucelli's Personal Room-20261104 1107-1 | 15 | 15 | 106 / 151 | 0 | 45 | 2026-11-04 14:44:46 |
+| Unassigned | 2026-11-04 — Federico Malucelli's Personal Room-20261104 1107-1 | 15 | 15 | 30 / 30 | 0 | 0 | 2026-11-04 14:44:46 |
 
 Searchable material: 58 PDFs; 18 assignments.
 
