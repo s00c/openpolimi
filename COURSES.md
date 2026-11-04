@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-04T16:32:33+00:00.
+Last successful document sync: 2026-11-04T16:37:52+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -173,10 +173,10 @@ Searchable material: 0 PDFs; 11 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-04 — Federico Malucelli's Personal Room-20261104 1107-1 | 15 | 15 | 106 / 151 | 0 | 45 | 2026-11-04 14:44:46 |
-| Unassigned | 2026-11-04 — Federico Malucelli's Personal Room-20261104 1107-1 | 15 | 15 | 30 / 30 | 0 | 0 | 2026-11-04 14:44:46 |
+| Course | 2026-11-04 — Federico Malucelli's Personal Room-20261104 1107-1 | 15 | 15 | 109 / 154 | 0 | 45 | 2026-11-04 16:36:28 |
+| Unassigned | 2026-11-04 — Federico Malucelli's Personal Room-20261104 1107-1 | 15 | 15 | 30 / 30 | 0 | 0 | 2026-11-04 16:36:28 |
 
-Searchable material: 58 PDFs; 18 assignments.
+Searchable material: 58 PDFs; 21 assignments.
 
 ## 089181 — theoretical computer science · 2025-26
 
