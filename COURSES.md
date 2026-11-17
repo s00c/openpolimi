@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T09:47:06+00:00.
+Last successful document sync: 2026-11-17T10:33:58+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -71,10 +71,10 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-27 — FAI2026-13-LearningToPlayAndSearch-Amigoni | 24 | 24 | 97 / 103 | 0 | 6 | 2026-11-04 16:30:39 |
+| Course | 2026-10-27 — FAI2026-13-LearningToPlayAndSearch-Amigoni | 24 | 24 | 101 / 107 | 0 | 6 | 2026-11-17 10:31:09 |
 | Unassigned | 2026-10-27 — FAI2026-13-LearningToPlayAndSearch-Amigoni | 24 | 24 | 48 / 48 | 0 | 0 | 2026-11-04 16:30:39 |
 
-Searchable material: 25 PDFs; 24 assignments.
+Searchable material: 29 PDFs; 24 assignments.
 
 ## 056892 — data mining · 2026-27
 
@@ -97,10 +97,10 @@ Searchable material: 81 PDFs; 2 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-03 — Multiagent planning | 13 | 13 | 41 / 105 | 0 | 64 | 2026-11-03 12:14:48 |
+| Course | 2026-11-03 — Multiagent planning | 13 | 13 | 42 / 106 | 0 | 64 | 2026-11-17 10:31:29 |
 | Unassigned | 2026-11-03 — Multiagent planning | 13 | 13 | 26 / 26 | 0 | 0 | 2026-11-03 12:14:48 |
 
-Searchable material: 5 PDFs; 10 assignments.
+Searchable material: 6 PDFs; 10 assignments.
 
 ## 056895 — streaming data analytics · 2025-26
 
@@ -131,10 +131,10 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 86 / 104 | 0 | 18 | 2026-11-05 05:15:58 |
+| Course | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 88 / 114 | 0 | 26 | 2026-11-17 10:32:02 |
 | Unassigned | 2026-10-15 — E02 - Neo4j Hands On + Raphtory | 11 | 11 | 22 / 22 | 0 | 0 | 2026-10-21 06:40:25 |
 
-Searchable material: 53 PDFs; 11 assignments.
+Searchable material: 55 PDFs; 11 assignments.
 
 ## 062534 — online learning applications · 2025-26
 
@@ -173,10 +173,10 @@ Searchable material: 0 PDFs; 11 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-04 — Federico Malucelli's Personal Room-20261104 1107-1 | 15 | 15 | 110 / 155 | 0 | 45 | 2026-11-04 16:39:11 |
+| Course | 2026-11-04 — Federico Malucelli's Personal Room-20261104 1107-1 | 15 | 15 | 111 / 159 | 0 | 48 | 2026-11-17 10:32:24 |
 | Unassigned | 2026-11-04 — Federico Malucelli's Personal Room-20261104 1107-1 | 15 | 15 | 30 / 30 | 0 | 0 | 2026-11-04 16:39:11 |
 
-Searchable material: 58 PDFs; 22 assignments.
+Searchable material: 59 PDFs; 22 assignments.
 
 ## 089181 — theoretical computer science · 2025-26
 
