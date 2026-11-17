@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T11:44:43+00:00.
+Last successful document sync: 2026-11-17T11:57:59+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -28,9 +28,9 @@ Searchable material: 101 PDFs; 44 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-04 — rossi lab-critical-review-of-rasd-quiz f4e07a53cd59ba6a | 15 | 15 | 65 / 99 | 0 | 34 | 2026-11-04 17:46:55 |
-| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-04 17:46:55 |
-| Matteo Rossi | 2026-11-04 — rossi lab-critical-review-of-rasd-quiz f4e07a53cd59ba6a | 3 | 3 | 6 / 6 | 0 | 0 | 2026-11-04 17:46:55 |
+| Course | 2026-11-05 — rossi architectural-styles-client-server 751af31b0e3466a2 | 16 | 16 | 67 / 101 | 0 | 34 | 2026-11-17 11:55:24 |
+| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-17 11:55:24 |
+| Matteo Rossi | 2026-11-05 — rossi architectural-styles-client-server 751af31b0e3466a2 | 4 | 4 | 8 / 8 | 0 | 0 | 2026-11-17 11:55:24 |
 
 Searchable material: 5 PDFs; 30 assignments.
 
