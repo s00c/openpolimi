@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T22:55:48+00:00.
+Last successful document sync: 2026-11-17T23:58:36+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -131,7 +131,7 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-12 — E05 - Cassandra e Redis | 15 | 15 | 97 / 123 | 0 | 26 | 2026-11-17 22:54:56 |
+| Course | 2026-11-12 — E05 - Cassandra e Redis | 15 | 15 | 97 / 123 | 0 | 26 | 2026-11-17 23:57:43 |
 | Unassigned | 2026-11-12 — E05 - Cassandra e Redis | 15 | 15 | 30 / 30 | 0 | 0 | 2026-11-17 18:47:34 |
 
 Searchable material: 55 PDFs; 12 assignments.
