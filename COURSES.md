@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T14:42:17+00:00.
+Last successful document sync: 2026-11-17T14:55:39+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -97,8 +97,8 @@ Searchable material: 81 PDFs; 2 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-04 — Exercises on multiagent planning | 14 | 14 | 46 / 110 | 0 | 64 | 2026-11-17 11:41:36 |
-| Unassigned | 2026-11-04 — Exercises on multiagent planning | 14 | 14 | 28 / 28 | 0 | 0 | 2026-11-17 11:41:36 |
+| Course | 2026-11-10 — Distributed Constraint Optimization Problems | 15 | 15 | 48 / 112 | 0 | 64 | 2026-11-17 14:53:24 |
+| Unassigned | 2026-11-10 — Distributed Constraint Optimization Problems | 15 | 15 | 30 / 30 | 0 | 0 | 2026-11-17 14:53:24 |
 
 Searchable material: 6 PDFs; 12 assignments.
 
