@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T18:20:23+00:00.
+Last successful document sync: 2026-11-17T18:34:43+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -28,9 +28,9 @@ Searchable material: 101 PDFs; 44 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-11 — rossi architectural-styles-event-driven-kafka-microservices fd362c07fad0907b | 17 | 17 | 69 / 103 | 0 | 34 | 2026-11-17 16:22:05 |
-| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-17 16:22:05 |
-| Matteo Rossi | 2026-11-11 — rossi architectural-styles-event-driven-kafka-microservices fd362c07fad0907b | 5 | 5 | 10 / 10 | 0 | 0 | 2026-11-17 16:22:05 |
+| Course | 2026-11-12 — rossi microservices-patterns-how-to-create-a-dd-document-architectures-and-q 0b6814a56c11ad22 | 18 | 18 | 71 / 105 | 0 | 34 | 2026-11-17 18:31:54 |
+| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-17 18:31:54 |
+| Matteo Rossi | 2026-11-12 — rossi microservices-patterns-how-to-create-a-dd-document-architectures-and-q 0b6814a56c11ad22 | 6 | 6 | 12 / 12 | 0 | 0 | 2026-11-17 18:31:54 |
 
 Searchable material: 5 PDFs; 30 assignments.
 
