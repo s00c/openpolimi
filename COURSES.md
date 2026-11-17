@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T15:53:55+00:00.
+Last successful document sync: 2026-11-17T16:08:01+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -71,8 +71,8 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-10 — FAI2026-15-LogicAgents-Amigoni | 27 | 27 | 109 / 115 | 0 | 6 | 2026-11-17 15:32:40 |
-| Unassigned | 2026-11-10 — FAI2026-15-LogicAgents-Amigoni | 27 | 27 | 54 / 54 | 0 | 0 | 2026-11-17 15:32:40 |
+| Course | 2026-11-10 — FAI2026-15-LogicAgents-Lanzi Recordings of the Tuesday lecture since on Monday November 9 the network was not working an | 28 | 28 | 111 / 117 | 0 | 6 | 2026-11-17 16:04:59 |
+| Unassigned | 2026-11-10 — FAI2026-15-LogicAgents-Lanzi Recordings of the Tuesday lecture since on Monday November 9 the network was not working an | 28 | 28 | 56 / 56 | 0 | 0 | 2026-11-17 16:04:59 |
 
 Searchable material: 29 PDFs; 26 assignments.
 
