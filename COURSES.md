@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T19:22:53+00:00.
+Last successful document sync: 2026-11-17T19:47:50+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -71,10 +71,10 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-13 — FAI2026-16-InferenceProceduresForPropositionalLogic-Lanzi | 30 | 30 | 118 / 124 | 0 | 6 | 2026-11-17 19:19:32 |
-| Unassigned | 2026-11-13 — FAI2026-16-InferenceProceduresForPropositionalLogic-Lanzi | 30 | 30 | 60 / 60 | 0 | 0 | 2026-11-17 19:19:32 |
+| Course | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 122 / 128 | 0 | 6 | 2026-11-17 19:44:29 |
+| Unassigned | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 62 / 62 | 0 | 0 | 2026-11-17 19:44:29 |
 
-Searchable material: 29 PDFs; 29 assignments.
+Searchable material: 29 PDFs; 31 assignments.
 
 ## 056892 — data mining · 2026-27
 
