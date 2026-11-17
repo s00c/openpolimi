@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T12:13:57+00:00.
+Last successful document sync: 2026-11-17T12:30:06+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -131,10 +131,10 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-10-29 — MongoDB introduction Ettori 29-10-2026 | 13 | 13 | 92 / 118 | 0 | 26 | 2026-11-17 11:06:27 |
-| Unassigned | 2026-10-29 — MongoDB introduction Ettori 29-10-2026 | 13 | 13 | 26 / 26 | 0 | 0 | 2026-11-17 11:06:27 |
+| Course | 2026-11-05 — MongoDB practice Ettori 05-11-2026 | 14 | 14 | 95 / 121 | 0 | 26 | 2026-11-17 12:27:35 |
+| Unassigned | 2026-11-05 — MongoDB practice Ettori 05-11-2026 | 14 | 14 | 28 / 28 | 0 | 0 | 2026-11-17 12:27:35 |
 
-Searchable material: 55 PDFs; 11 assignments.
+Searchable material: 55 PDFs; 12 assignments.
 
 ## 062534 — online learning applications · 2025-26
 
