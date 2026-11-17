@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T11:10:03+00:00.
+Last successful document sync: 2026-11-17T11:44:43+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -97,10 +97,10 @@ Searchable material: 81 PDFs; 2 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-03 — Multiagent planning | 13 | 13 | 42 / 106 | 0 | 64 | 2026-11-17 10:31:29 |
-| Unassigned | 2026-11-03 — Multiagent planning | 13 | 13 | 26 / 26 | 0 | 0 | 2026-11-03 12:14:48 |
+| Course | 2026-11-04 — Exercises on multiagent planning | 14 | 14 | 46 / 110 | 0 | 64 | 2026-11-17 11:41:36 |
+| Unassigned | 2026-11-04 — Exercises on multiagent planning | 14 | 14 | 28 / 28 | 0 | 0 | 2026-11-17 11:41:36 |
 
-Searchable material: 6 PDFs; 10 assignments.
+Searchable material: 6 PDFs; 12 assignments.
 
 ## 056895 — streaming data analytics · 2025-26
 
