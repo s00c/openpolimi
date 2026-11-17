@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-17T16:08:01+00:00.
+Last successful document sync: 2026-11-17T16:24:38+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -28,9 +28,9 @@ Searchable material: 101 PDFs; 44 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-05 — rossi architectural-styles-client-server 751af31b0e3466a2 | 16 | 16 | 67 / 101 | 0 | 34 | 2026-11-17 11:55:24 |
-| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-17 11:55:24 |
-| Matteo Rossi | 2026-11-05 — rossi architectural-styles-client-server 751af31b0e3466a2 | 4 | 4 | 8 / 8 | 0 | 0 | 2026-11-17 11:55:24 |
+| Course | 2026-11-11 — rossi architectural-styles-event-driven-kafka-microservices fd362c07fad0907b | 17 | 17 | 69 / 103 | 0 | 34 | 2026-11-17 16:22:05 |
+| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-17 16:22:05 |
+| Matteo Rossi | 2026-11-11 — rossi architectural-styles-event-driven-kafka-microservices fd362c07fad0907b | 5 | 5 | 10 / 10 | 0 | 0 | 2026-11-17 16:22:05 |
 
 Searchable material: 5 PDFs; 30 assignments.
 
