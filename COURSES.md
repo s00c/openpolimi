@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-18T13:48:48+00:00.
+Last successful document sync: 2026-11-18T14:14:14+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -28,9 +28,9 @@ Searchable material: 101 PDFs; 44 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-12 — rossi microservices-patterns-how-to-create-a-dd-document-architectures-and-q 0b6814a56c11ad22 | 18 | 18 | 71 / 105 | 0 | 34 | 2026-11-17 18:31:54 |
-| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-17 18:31:54 |
-| Matteo Rossi | 2026-11-12 — rossi microservices-patterns-how-to-create-a-dd-document-architectures-and-q 0b6814a56c11ad22 | 6 | 6 | 12 / 12 | 0 | 0 | 2026-11-17 18:31:54 |
+| Course | 2026-11-18 — rossi v-v-static-vs-dynamic-analysis-control-flow-graphs-live-variables-reac ceaae293d6999862 | 19 | 19 | 73 / 107 | 0 | 34 | 2026-11-18 14:10:34 |
+| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-18 14:10:34 |
+| Matteo Rossi | 2026-11-18 — rossi v-v-static-vs-dynamic-analysis-control-flow-graphs-live-variables-reac ceaae293d6999862 | 7 | 7 | 14 / 14 | 0 | 0 | 2026-11-18 14:10:34 |
 
 Searchable material: 5 PDFs; 30 assignments.
 
@@ -71,8 +71,8 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 122 / 128 | 0 | 6 | 2026-11-17 19:44:29 |
-| Unassigned | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 62 / 62 | 0 | 0 | 2026-11-17 19:44:29 |
+| Course | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 122 / 129 | 0 | 7 | 2026-11-18 13:52:01 |
+| Unassigned | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 62 / 63 | 0 | 1 | 2026-11-18 13:52:01 |
 
 Searchable material: 29 PDFs; 31 assignments.
 
