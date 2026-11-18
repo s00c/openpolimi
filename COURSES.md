@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-18T19:13:58+00:00.
+Last successful document sync: 2026-11-18T20:17:01+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -71,8 +71,8 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 122 / 129 | 0 | 7 | 2026-11-18 19:01:57 |
-| Unassigned | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 62 / 63 | 0 | 1 | 2026-11-18 19:01:57 |
+| Course | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 122 / 129 | 0 | 7 | 2026-11-18 19:14:24 |
+| Unassigned | 2026-11-16 — FAI2026-17-InferenceProceduresForPropositionalLogic-Lanzi | 31 | 31 | 62 / 63 | 0 | 1 | 2026-11-18 19:14:24 |
 
 Searchable material: 29 PDFs; 31 assignments.
 
@@ -131,7 +131,7 @@ Searchable material: 4 PDFs; 3 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-12 — E05 - Cassandra e Redis | 16 | 16 | 99 / 125 | 0 | 26 | 2026-11-18 19:12:51 |
+| Course | 2026-11-12 — E05 - Cassandra e Redis | 16 | 16 | 99 / 125 | 0 | 26 | 2026-11-18 20:15:56 |
 | Unassigned | 2026-11-12 — E05 - Cassandra e Redis | 16 | 16 | 32 / 32 | 0 | 0 | 2026-11-18 11:16:58 |
 
 Searchable material: 55 PDFs; 12 assignments.
