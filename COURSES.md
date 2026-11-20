@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-20T14:21:23+00:00.
+Last successful document sync: 2026-11-20T14:37:02+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -28,11 +28,11 @@ Searchable material: 101 PDFs; 44 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-18 — rossi v-v-static-vs-dynamic-analysis-control-flow-graphs-live-variables-reac ceaae293d6999862 | 19 | 19 | 73 / 107 | 0 | 34 | 2026-11-18 14:10:34 |
-| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-18 14:10:34 |
-| Matteo Rossi | 2026-11-18 — rossi v-v-static-vs-dynamic-analysis-control-flow-graphs-live-variables-reac ceaae293d6999862 | 7 | 7 | 14 / 14 | 0 | 0 | 2026-11-18 14:10:34 |
+| Course | 2026-11-19 — rossi ud-chains-def-use-analysis-symbolic-execution-testing-techniques 9f84281dafcef502 | 20 | 20 | 77 / 111 | 0 | 34 | 2026-11-20 14:34:08 |
+| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-20 14:34:08 |
+| Matteo Rossi | 2026-11-19 — rossi ud-chains-def-use-analysis-symbolic-execution-testing-techniques 9f84281dafcef502 | 8 | 8 | 16 / 16 | 0 | 0 | 2026-11-20 14:34:08 |
 
-Searchable material: 5 PDFs; 30 assignments.
+Searchable material: 5 PDFs; 32 assignments.
 
 ## 055283 — bayesian learning and montecarlo simulation · 2025-26
 
