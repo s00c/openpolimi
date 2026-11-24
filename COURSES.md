@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-24T15:33:13+00:00.
+Last successful document sync: 2026-11-24T15:55:34+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -97,10 +97,10 @@ Searchable material: 81 PDFs; 2 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-18 — Exercises on distributed constraint optimization problems | 18 | 18 | 55 / 119 | 0 | 64 | 2026-11-20 14:17:59 |
-| Unassigned | 2026-11-18 — Exercises on distributed constraint optimization problems | 18 | 18 | 36 / 36 | 0 | 0 | 2026-11-20 14:17:59 |
+| Course | 2026-11-24 — Hands-on on distributed constraint optimization problems | 19 | 19 | 62 / 126 | 0 | 64 | 2026-11-24 15:52:28 |
+| Unassigned | 2026-11-24 — Hands-on on distributed constraint optimization problems | 19 | 19 | 38 / 38 | 0 | 0 | 2026-11-24 15:52:28 |
 
-Searchable material: 6 PDFs; 13 assignments.
+Searchable material: 6 PDFs; 18 assignments.
 
 ## 056895 — streaming data analytics · 2025-26
 
