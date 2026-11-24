@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-24T16:19:40+00:00.
+Last successful document sync: 2026-11-24T16:37:28+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -71,10 +71,10 @@ Searchable material: 10 PDFs; 7 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-23 — FAI2026-18-Planning-Lanzi | 35 | 35 | 135 / 141 | 0 | 6 | 2026-11-23 11:21:46 |
-| Unassigned | 2026-11-23 — FAI2026-18-Planning-Lanzi | 35 | 35 | 70 / 70 | 0 | 0 | 2026-11-23 11:21:46 |
+| Course | 2026-11-24 — FAI2026-18-Planning-Amigoni | 36 | 36 | 138 / 144 | 0 | 6 | 2026-11-24 16:33:54 |
+| Unassigned | 2026-11-24 — FAI2026-18-Planning-Amigoni | 36 | 36 | 72 / 72 | 0 | 0 | 2026-11-24 16:33:54 |
 
-Searchable material: 30 PDFs; 35 assignments.
+Searchable material: 30 PDFs; 36 assignments.
 
 ## 056892 — data mining · 2026-27
 
