@@ -1,7 +1,7 @@
 # Course availability
 
 Generated from the files and search index on the OpenPolimi VM.
-Last successful document sync: 2026-11-26T11:06:19+00:00.
+Last successful document sync: 2026-11-26T11:33:30+00:00.
 Updated automatically after a successful document sync. Code deployments do not update this page.
 
 Dates are UTC. “Last file change” is the source file modification date, not a check against WeBeep.
@@ -28,11 +28,11 @@ Searchable material: 101 PDFs; 44 assignments.
 
 | Scope | Latest searchable lesson | Notes | Transcripts | Searchable / present files | Pending | Other | Last file change (UTC) |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- |
-| Course | 2026-11-25 — rossi exercises-on-architectures 3b10d6ac1a5a99ed | 21 | 21 | 84 / 118 | 0 | 34 | 2026-11-25 11:00:09 |
-| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-25 11:00:09 |
-| Matteo Rossi | 2026-11-25 — rossi exercises-on-architectures 3b10d6ac1a5a99ed | 9 | 9 | 18 / 18 | 0 | 0 | 2026-11-25 11:00:09 |
+| Course | 2026-11-26 — rossi exercises-on-architectures 0bf9e5c6f2ec6b72 | 22 | 22 | 87 / 121 | 0 | 34 | 2026-11-26 11:30:35 |
+| Elisabetta Di Nitto | 2026-10-22 — introduction-to-software-design-uml-for-software-architectures-softwar 1 | 12 | 12 | 24 / 24 | 0 | 0 | 2026-11-26 11:30:35 |
+| Matteo Rossi | 2026-11-26 — rossi exercises-on-architectures 0bf9e5c6f2ec6b72 | 10 | 10 | 20 / 20 | 0 | 0 | 2026-11-26 11:30:35 |
 
-Searchable material: 10 PDFs; 32 assignments.
+Searchable material: 10 PDFs; 33 assignments.
 
 ## 055283 — bayesian learning and montecarlo simulation · 2025-26
 
